@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          npm install, npm run test
+          inject path
         </a>
       </header>
     </div>
